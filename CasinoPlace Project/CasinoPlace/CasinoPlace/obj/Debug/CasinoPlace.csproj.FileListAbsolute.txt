@@ -1,0 +1,9 @@
+E:\Diplomna Mimi\CasinoPlace Project\CasinoPlace\CasinoPlace\bin\Debug\CasinoPlace.exe.config
+E:\Diplomna Mimi\CasinoPlace Project\CasinoPlace\CasinoPlace\bin\Debug\CasinoPlace.exe
+E:\Diplomna Mimi\CasinoPlace Project\CasinoPlace\CasinoPlace\bin\Debug\CasinoPlace.pdb
+E:\Diplomna Mimi\CasinoPlace Project\CasinoPlace\CasinoPlace\obj\Debug\CasinoPlace.csprojResolveAssemblyReference.cache
+E:\Diplomna Mimi\CasinoPlace Project\CasinoPlace\CasinoPlace\obj\Debug\CasinoPlace.frmMain.resources
+E:\Diplomna Mimi\CasinoPlace Project\CasinoPlace\CasinoPlace\obj\Debug\CasinoPlace.Properties.Resources.resources
+E:\Diplomna Mimi\CasinoPlace Project\CasinoPlace\CasinoPlace\obj\Debug\CasinoPlace.csproj.GenerateResource.Cache
+E:\Diplomna Mimi\CasinoPlace Project\CasinoPlace\CasinoPlace\obj\Debug\CasinoPlace.exe
+E:\Diplomna Mimi\CasinoPlace Project\CasinoPlace\CasinoPlace\obj\Debug\CasinoPlace.pdb
